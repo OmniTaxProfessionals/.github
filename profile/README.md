@@ -1,6 +1,6 @@
 # 🚀 Welcome to the OmniTax Professionals GitHub Organization!
 
-Thank you for visiting our central website hub. OmniTax Professionals delivers expert financial guidance and innovative tax solutions. This repository serves as the gateway to our open-source projects, documentation, and digital infrastructure.
+Thank you for visiting our central website hub. OmniTax Professionals brings high calibre tax expertise to every engagement. We are independent, conflict-free, and committed to delivering practical, solutions-focused tax advice to our clients.
 
 ---
 
